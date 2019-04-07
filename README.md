@@ -1,18 +1,18 @@
 # 利用SimpleAdapter实现界面效果
 
-![](https://github.com/whiteLi12/UI/blob/master/img2/1.png)
+![](https://github.com/whiteLi12/UI_work/blob/master/img2/1.png)
 
 # 创建自定义布局的 AlertDialog
 
-![](https://github.com/whiteLi12/UI/blob/master/img2/2.png)
+![](https://github.com/whiteLi12/UI_work/blob/master/img2/2.png)
 
 # 使用 XML定义菜单
 
-![](https://github.com/whiteLi12/UI/blob/master/img2/3.png)
+![](https://github.com/whiteLi12/UI_work/blob/master/img2/3.png)
 
 # 创建上下文操作模式 (ActionMode)的上下文菜单
 
-![](https://github.com/whiteLi12/UI/blob/master/img2/4.png)
+![](https://github.com/whiteLi12/UI_work/blob/master/img2/4.png)
 
 MainActivity:
 
